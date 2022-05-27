@@ -1,6 +1,6 @@
 ﻿namespace HelloXamlMaui;
 
-public static class MauiProgram
+public static class MauiXamlMainProgram
 {
 	public static MauiApp CreateMauiApp()
 	{
